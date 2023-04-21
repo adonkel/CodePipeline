@@ -1,0 +1,6 @@
+[
+    {
+        "name": "ad-docker-container",
+        "imageUri": "public.ecr.aws/q9r3s5p8/ad-docker-image:latest"
+    }
+]
